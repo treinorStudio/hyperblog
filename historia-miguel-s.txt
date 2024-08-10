@@ -1,0 +1,19 @@
+Esta es la historia de Miguel Sanchez, conocido como Treinor
+
+Tiene 38 años y es un experto en tecnologia de software y diseño UI-UX
+En su tiempo libre crea animaciones e ilustraciones para sus proyectos de libros de arte, comics y videojuegos.
+Tambien es un Freelance profesional, tiene un equipo preparado para trabajar en su estudio ¨Treinor Studio" haciendo diseños
+de estilo aerografia de forma digital, entre otros servicios de creacion de paginas web estaticas e interactivas.
+
+Sus productos de software y diseño son reconocidos a nivel mundial.
+Pueden visitar su pagina principal de portafolio que los llevara a visitar sus proyectos, comics, videojuegos, productos y servicios muy solicitados cuando de interactividad y animaciones se refiere.
+Ademas de su toque personal urbano.
+
+Su aplicacion web de portafolio-galeria de diseños en su pagina web para franelas, es excelente para generar mock ups de sus diseños
+Puedes crear una cuenta y mostrar al mundo como se verian sus diseños personalizados de sus marcas, diseños para eventos, etc. de manera interactiva y en tiempo real.
+
+Su familia es muy unida y siempre cuentan con el para hacer reuniones, compartir, salir juntos a visitar lugares nuevos y visitar familiares y amigos.
+
+Miguel S (Treinor) hace colaboraciones a repositorios en github relacionados a videojuegos, proyectos educativos de animaciones web y aplicaciones interactivas con gsap, threejs y rive eventualmente.
+
+Es muy aplicado y organizado cuando realizar proyectos se trata, buen comunicador e inspirador en sus equipos de trabajo.
