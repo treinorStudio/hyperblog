@@ -16,4 +16,4 @@ Su familia es muy unida y siempre cuentan con el para hacer reuniones, compartir
 
 Miguel S (Treinor) hace colaboraciones a repositorios en github relacionados a videojuegos, proyectos educativos de animaciones web y aplicaciones interactivas con gsap, threejs y rive eventualmente.
 
-Ma;ana hablaremos de su vida personal :)
+Mañana hablaremos de su vida personal :)
