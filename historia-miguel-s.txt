@@ -5,6 +5,10 @@ En su tiempo libre crea animaciones e ilustraciones para sus proyectos de libros
 Tambien es un Freelance profesional, tiene un equipo preparado para trabajar en su estudio ¨Treinor Studio" haciendo diseños
 de estilo aerografia de forma digital, entre otros servicios de creacion de paginas web estaticas e interactivas.
 
+Sus productos de software y diseño son reconocidos a nivel mundial.
+Pueden visitar su pagina principal de portafolio que los llevara a visitar sus proyectos, comics, videojuegos, productos y servicios muy solicitados cuando de interactividad y animaciones se refiere.
+Ademas de su toque personal urbano.
+
 Su aplicacion web de portafolio-galeria de diseños en su pagina web para franelas, es excelente para generar mock ups de sus diseños
 Puedes crear una cuenta y mostrar al mundo como se verian sus diseños personalizados de sus marcas, diseños para eventos, etc. de manera interactiva y en tiempo real.
 
@@ -12,8 +16,4 @@ Su familia es muy unida y siempre cuentan con el para hacer reuniones, compartir
 
 Miguel S (Treinor) hace colaboraciones a repositorios en github relacionados a videojuegos, proyectos educativos de animaciones web y aplicaciones interactivas con gsap, threejs y rive eventualmente.
 
-Es muy aplicado y organizado cuando realizar proyectos se trata, buen comunicador e inspirador en sus equipos de trabajo.
-Le gusta hacer ejercicio, mantenerse energico y carismatico.
-
-Actualmente es reconocido por grandes productos de ilustraciones, software y dise;o UI, sus cheatsheets son increibles
-Muy informativas y se puede notar lo aplicado que era aprendiendo todas las tecnologias que estan en sus sitios web y portafolios.
+Ma;ana hablaremos de su vida personal :)
