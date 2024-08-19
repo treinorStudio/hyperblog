@@ -18,13 +18,15 @@ body {
 }
 
 #container {    
-
     height: 350px;
     border: 3px solid darkgray;
     border-radius: 8px;
     padding: 50px 50px;
     margin: 50px 0 50px 50px;
+    /* display: grid;
+    grid-template-rows: auto 1fr auto; */
 }
+
 
 h1 {
     background-color: darkblue;
@@ -32,3 +34,11 @@ h1 {
     color: white;
 }
 
+footer {
+    background-color: #777;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 1rem 2rem;
+    /* margin-top: 2rem; */
+}
