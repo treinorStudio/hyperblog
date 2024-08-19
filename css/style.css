@@ -39,7 +39,11 @@ img {
 .sub-cabecera {
     padding-left: 2rem;
     font-size: 1.7rem;
+    margin: 50px 0 50px 50px;
+    /* display: grid;
+    grid-template-rows: auto 1fr auto; */
 }
+
 
 h1 {
     display: flex;
@@ -47,8 +51,14 @@ h1 {
     height: auto;
     background-color: darkblue;
     padding: 1rem;
-    color: white;  
-    text-align: center;  
-    line-height: 3rem;
+    color: white;
 }
 
+footer {
+    background-color: #777;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 1rem 2rem;
+    /* margin-top: 2rem; */
+}
