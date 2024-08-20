@@ -44,6 +44,10 @@ p {
     padding-right: 0.5rem;
 }
 
+.contenedor-img {
+    text-align: center;
+}
+
 #imagen {
     height: auto;
     width: 30%;
@@ -51,7 +55,8 @@ p {
 }
 
 #imagen:hover {
-    transform: translate(100%, 0);
+    /* transform: translate(100%, 0); */
+    transform: rotate(360deg);
     transition: 3s;
 }
 
