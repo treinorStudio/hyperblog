@@ -1,3 +1,4 @@
 # Ignoring binary files
 *.jpg
-/img/creeper.png
+creeper.png
+# !/img/creeper.png
