@@ -5,7 +5,7 @@ Amazing blog from Git &amp; GitHub course
 >>
 - For to create markdown files like this one visit: [editor.md](http://pandao.github.io/editor.md/en.html "editor.md")
 - Documentation of visit: [.gitignore](http://git-scm.com/docs/gitignore ".gitignore")
-- In this course we can learn about professional workflow using** Git** and **Github**
+- In this course we can learn about professional workflow using **Git** and **Github**
 - How to collaborate in public repositories
 - Create, switch and merge branches.
 - Create Pull Request (PR)
