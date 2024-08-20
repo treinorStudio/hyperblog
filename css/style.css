@@ -7,7 +7,7 @@
 body {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     line-height: 2rem;    
@@ -16,42 +16,58 @@ body {
     background-image: url("../img/treinorstudio-logo.png") ;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: black;
+    background-color: #191919;
+    margin: 50px;
     /* background-repeat: no-repeat; */
 }
 
-#container {   
+#container { 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;  
     height: auto;
-    width: 850px;
+    /* Este porcentaje + display flex lo hace mas responsive */
+    width: 100%;
     border: 3px solid darkgray;
     border-radius: 8px;
-    padding: 50px 50px;
     margin: 50px;
     background-color: white;
 }
 
-img {
+p {
+    padding: 0 50px;
+}
+
+#logo {
     height: 3rem;
     object-fit: contain;
     padding-right: 0.5rem;
 }
 
+#imagen {
+    height: auto;
+    width: 30%;
+    object-fit: contain;
+}
+
+#imagen:hover {
+    transform: translate(100%, 0);
+    transition: 3s;
+}
+
 .sub-cabecera {
     padding-left: 2rem;
     font-size: 1.7rem;
-    margin: 50px 0 50px 50px;
-    /* display: grid;
-    grid-template-rows: auto 1fr auto; */
 }
-
 
 h1 {
     display: flex;
     align-items: center;
-    height: auto;
-    background-color: darkblue;
+    /* height: auto; */
+    background-color: #192055;
     padding: 1rem;
     color: white;
+    box-shadow: 0 5px 10px 5px #303a4c;
 }
 
 footer {
@@ -59,6 +75,6 @@ footer {
     color: white;
     font-weight: bold;
     text-align: center;
-    padding: 1rem 2rem;
-    /* margin-top: 2rem; */
+    padding: 1rem 0;
+    margin-top: 2rem;
 }
